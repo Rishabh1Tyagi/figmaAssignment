@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/figmaAssignment/static/css/main.ae39b21f.css",
+    "main.js": "/figmaAssignment/static/js/main.67ce7872.js",
+    "static/js/787.e8133769.chunk.js": "/figmaAssignment/static/js/787.e8133769.chunk.js",
+    "static/media/yoga-mat.jpg": "/figmaAssignment/static/media/yoga-mat.2a0b4db8b5550ab297bb.jpg",
+    "static/media/addtoCart.jpg": "/figmaAssignment/static/media/addtoCart.f162abcbf123d7385b23.jpg",
+    "static/media/watch.jpg": "/figmaAssignment/static/media/watch.0eb6f38d9a691d782dac.jpg",
+    "static/media/anchor-bracelets.jpg": "/figmaAssignment/static/media/anchor-bracelets.96ea1a2299c703e3798c.jpg",
+    "index.html": "/figmaAssignment/index.html",
+    "main.ae39b21f.css.map": "/figmaAssignment/static/css/main.ae39b21f.css.map",
+    "main.67ce7872.js.map": "/figmaAssignment/static/js/main.67ce7872.js.map",
+    "787.e8133769.chunk.js.map": "/figmaAssignment/static/js/787.e8133769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae39b21f.css",
+    "static/js/main.67ce7872.js"
+  ]
+}
